@@ -1,0 +1,2054 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "武汉大学大学生创新训练"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                277,
+                255,
+                763,
+                292
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "计划项目结题报告"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                342,
+                332,
+                695,
+                369
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（1号宋体居中）"
+                    }
+                ]
+            },
+            "bbox": [
+                458,
+                401,
+                579,
+                417
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Altera DDR IPCore 在海量图像无级缩放"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                164,
+                523,
+                843,
+                554
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "硬件实现系统中的应用"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                310,
+                598,
+                685,
+                627
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（2 号黑体居中）"
+                    }
+                ]
+            },
+            "bbox": [
+                458,
+                715,
+                579,
+                730
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "院（系）名 称：XXXXXX "
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                804,
+                663,
+                825
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "专 业 名 称 ：XXXXXX"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                854,
+                638,
+                873
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "附件一：封面示例"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                99,
+                307,
+                116
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "二○一三年三月"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                418,
+                250,
+                633,
+                275
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件二：英文扉页示例"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                353,
+                347,
+                370
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTERIM REPORT OF PLANNING "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                218,
+                420,
+                779,
+                449
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PROJECT OF INNOVATION AND "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                228,
+                476,
+                769,
+                502
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ENTREPRENEURSHIP TRAINING OF "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                193,
+                533,
+                806,
+                558
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "UNDERGRADUATE OF WUHAN "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                230,
+                589,
+                768,
+                614
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "UNIVERSITY "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                384,
+                645,
+                611,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Times New Roman 2 号居中）"
+                    }
+                ]
+            },
+            "bbox": [
+                405,
+                692,
+                633,
+                708
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Writing the Title of the Report "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                273,
+                750,
+                766,
+                780
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "in English here "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                401,
+                802,
+                647,
+                831
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Times New Roman 2 号居中）"
+                    }
+                ]
+            },
+            "bbox": [
+                405,
+                850,
+                633,
+                866
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "学 生 姓 名 ：XXX XXX XXX XXX"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                98,
+                784,
+                118
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "指 导 教 师 ：XXX 教授"
+                    }
+                ]
+            },
+            "bbox": [
+                364,
+                147,
+                687,
+                168
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "（宋体小 3）"
+                    }
+                ]
+            },
+            "bbox": [
+                452,
+                190,
+                537,
+                206
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "College ：XXX XXX "
+                    }
+                ]
+            },
+            "bbox": [
+                349,
+                99,
+                576,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Subject ：XXX XXX "
+                    }
+                ]
+            },
+            "bbox": [
+                349,
+                149,
+                574,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Name ：XXX XXX XXX XXX "
+                    }
+                ]
+            },
+            "bbox": [
+                349,
+                199,
+                680,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Director ：XXX Professor "
+                    }
+                ]
+            },
+            "bbox": [
+                349,
+                248,
+                628,
+                265
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Times New Roman 4 号居中）"
+                    }
+                ]
+            },
+            "bbox": [
+                381,
+                288,
+                613,
+                303
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "March 2013 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                443,
+                374,
+                594,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Times New Roman 小 2 号居中）"
+                    }
+                ]
+            },
+            "bbox": [
+                394,
+                416,
+                640,
+                432
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "中期报告：Interim Report"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                481,
+                401,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "结题报告：Final Report "
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                527,
+                383,
+                545
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件三：声明示例"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                575,
+                305,
+                590
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "郑 重 声 明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                445,
+                681,
+                625,
+                709
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本项目组呈交的中期报告，是在导师的指导下，独立进行研究工作所取得的成果，所有数据、图片资料真实可靠。尽我们所知，除文中已经"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                807,
+                860,
+                883
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注明引用的内容外，本报告的研究成果不包含他人享有著作权的内容。"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                98,
+                850,
+                118
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "对本报告所涉及的研究工作做出贡献的其他个人和集体，均已在文中"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                153,
+                847,
+                173
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以明确的方式标明。本报告的知识产权归属于培养单位。"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                209,
+                717,
+                229
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "项目组签名： 日期："
+                    }
+                ]
+            },
+            "bbox": [
+                196,
+                318,
+                512,
+                338
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件四：（1）中文摘要、关键词示例"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                99,
+                475,
+                116
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "摘□□要 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                435,
+                170,
+                559,
+                193
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（黑体小 2）"
+                    }
+                ]
+            },
+            "bbox": [
+                455,
+                217,
+                541,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "目前对于CCD相机捕获的卫星图像的浏览和动态缩放这个比较棘手的问题的解决方案大多是通过对原始图像进行分割，然后分块显示。这些方法实现起来相对比较容易，开发成本也比较低，但是局限性非常之大，使浏览极为不便，移植性也较差。在本项目中为了解决海量图像方面的这个技术瓶颈，提出了大容量缓存加无级缩放算法的方案。 (宋体小 4 )"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                253,
+                860,
+                494
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "I "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                502,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "关键词：关键词1；关键词2；关键词3；关键词4；关键词5 "
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                180,
+                724,
+                198
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（黑体小 4）"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                219,
+                270,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（宋体小 4）"
+                    }
+                ]
+            },
+            "bbox": [
+                339,
+                219,
+                423,
+                235
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件四：（2）英文摘要、关键词示例"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                282,
+                478,
+                300
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ABSTRACT "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                413,
+                354,
+                584,
+                375
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "(Times New Roman 小 2 加粗)"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                381,
+                397,
+                615,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This report is carried out on the basis of the 211 project-Ssmi-physical simulation system for ship motion control. …… (Times New Roman 小 4 号) "
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                424,
+                857,
+                469
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": []
+            },
+            "bbox": [
+                495,
+                928,
+                505,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Key words: motion control；autopilot；neural；GIS "
+                    }
+                ]
+            },
+            "bbox": [
+                176,
+                236,
+                621,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（Times New Roman 体小 4 加粗） （Times New Roman 体小 4）"
+                    }
+                ]
+            },
+            "bbox": [
+                169,
+                282,
+                663,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件五:目录示例 "
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                376,
+                290,
+                393
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目□□录（黑体小 2）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                386,
+                468,
+                601,
+                491
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "摘要… "
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                521,
+                850,
+                541
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ABSTRACT… "
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                571,
+                739,
+                589
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第1章□绪论…"
+                    }
+                ]
+            },
+            "bbox": [
+                141,
+                618,
+                853,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                659,
+                505,
+                671
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "□□1.1□研究背景"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                692,
+                858,
+                709
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.2□研究意义 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.3□研究方法"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.4□研究内容 8"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                739,
+                860,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（各章的名称黑体4号，其余宋体小4，最右端页码为Times New Roman 5号）"
+                    }
+                ]
+            },
+            "bbox": [
+                201,
+                872,
+                800,
+                889
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                475,
+                906,
+                522,
+                916
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "III "
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                507,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第3章□关于海量图像无级缩放"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                139,
+                124,
+                855,
+                145
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "□□3.1□无级缩放算法原理 21 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.2□无级缩放算法的PC模拟 25 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "□□□□3.2.1□ 25 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "□□□□3.2.2□ 28 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                175,
+                858,
+                334
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": []
+            },
+            "bbox": [
+                475,
+                361,
+                522,
+                424
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第6章□结论与展望"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                139,
+                443,
+                855,
+                463
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "45 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "参考文献…… 48"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "致谢… 51 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "附录… 52 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                139,
+                483,
+                855,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(结论、参考文献、致谢及附录黑体4号) "
+                    }
+                ]
+            },
+            "bbox": [
+                339,
+                655,
+                655,
+                671
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "IV "
+                    }
+                ]
+            },
+            "bbox": [
+                489,
+                928,
+                507,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "第 1 章□绪论（黑体小 2）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                361,
+                170,
+                638,
+                193
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.1□概述（黑体 4 号）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                139,
+                225,
+                366,
+                244
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "□□IP（Intellectual Property）就是常说的知识产权，[1]IPCore（知识产权核）则是指用于产品应用的专用集成电路（ASIC）或者可编程逻辑器件（PGA）的逻辑块或数据块。[2]"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                274,
+                857,
+                403
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（宋体小 4）"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                425,
+                233,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                478,
+                458,
+                517,
+                520
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1□无级缩放算法原理（黑体4号）"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                137,
+                541,
+                507,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "□□通过 DDR IPCore 对 DDR 和 DDR2 SDRAM 进行初始化是有分别的，由于在本次项目设计过程中实际采用的是 DDR SDRAM，因此本文仅仅对前者的初始化时序进行讨论。"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                590,
+                858,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（宋体小4号）"
+                    }
+                ]
+            },
+            "bbox": [
+                485,
+                741,
+                589,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                478,
+                828,
+                517,
+                919
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "附件六：论文章节标题示例"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                99,
+                384,
+                116
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                502,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4f9686b7e7ff8a50a374c630b9bca7c19e770b11c6a3073aa26ee4fcfa7d39d5.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                478,
+                96,
+                519,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件七：公式、图文示例（用阿拉伯数字分章依序连续编号）"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                288,
+                675,
+                307
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（1）公式示例"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                400,
+                294,
+                416
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "\\begin{array}{l} f (x, y) = \\left\\lfloor f (1, 0) - f (0, 0) \\right\\rfloor x + \\left\\lfloor f (0, 1) - f (0, 0) \\right\\rfloor y \\\\ + \\left[ f (1, 1) + f (0, 0) - f (0, 1) - f (1, 0) \\right] x y + f (0, 0) \\tag {1.1} \\\\ \\end{array}",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/30ca8a1b61810aad9a45ffc4a395ccf00f818aabee556467d1f99f7fc1b5fe87.jpg"
+                }
+            },
+            "bbox": [
+                188,
+                425,
+                842,
+                469
+            ]
+        },
+        {
+            "type": "equation_interline",
+            "content": {
+                "math_content": "f = (1 - \\Delta Y) \\times [ a 0 0 \\times (1 - \\Delta X) + a 0 1 \\times \\Delta X ] + \\Delta Y \\times \\left\\lfloor a 1 0 \\times (1 - \\Delta X) + a 1 1 \\times \\Delta X \\right\\rfloor",
+                "math_type": "latex",
+                "image_source": {
+                    "path": "images/2f78953b82cfbb57f5408f08c9b9d3337c0fa5185a75c6475a4492a153b78b72.jpg"
+                }
+            },
+            "bbox": [
+                189,
+                530,
+                813,
+                550
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（1.2）"
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                629,
+                843,
+                644
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（2）表示例"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                709,
+                278,
+                725
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "普通表示例："
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                763,
+                275,
+                778
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "表 1.1□Altera 可提供的基本宏功能单元"
+                    }
+                ]
+            },
+            "bbox": [
+                344,
+                853,
+                694,
+                871
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                502,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/39bd7e3b90bf2cedbab7bea35aa84747687c8ea904f539a7ca6c455d866a6d5e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>类型</td><td>描述</td></tr><tr><td>算术组件</td><td>包括累加器、加法器、乘法器和LPM算术函数</td></tr><tr><td>门</td><td>包括多路复用器和LPM门函数</td></tr><tr><td>I/O组件</td><td>包括时钟数据恢复(CDR)、锁相环(PLL)、双数据速率(DDR)、千兆位收发器块(GXB)、LVDS收发器和发送器、PLL重新配置和远程更新宏功能模块</td></tr><tr><td>存储器</td><td>包括FIFO Partitioner、RAM和ROM宏功能模块</td></tr><tr><td>存储组件</td><td>存储器、移位寄存器宏模块和LPM存储器函数</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                171,
+                134,
+                826,
+                351
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "统计表示例："
+                    }
+                ]
+            },
+            "bbox": [
+                173,
+                403,
+                273,
+                419
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6a04049f906d930dda1254da82922766f985f8edb9712e3b4520b5b380a0e002.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 3.1□某地 1980 年不同年龄男性调查者 HBsAg 阳性率"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>年龄组（岁）</td><td>调查数</td><td>阳性数</td><td>阳性率</td></tr><tr><td>0-</td><td>726</td><td>31</td><td>4.27%</td></tr><tr><td>10-</td><td>1392</td><td>115</td><td>8.26%</td></tr><tr><td>20-</td><td>735</td><td>59</td><td>8.03%</td></tr><tr><td>30-</td><td>574</td><td>57</td><td>9.93%</td></tr><tr><td>40-</td><td>463</td><td>27</td><td>5.83%</td></tr><tr><td>50-</td><td>232</td><td>10</td><td>4.31%</td></tr><tr><td>60-</td><td>112</td><td>4</td><td>3.57%</td></tr><tr><td>合计</td><td>4234</td><td>303</td><td>7.16%</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                154,
+                521,
+                823,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件7：公式、图文示例（用阿拉伯数字分章依序连续编号）"
+                    }
+                ]
+            },
+            "bbox": [
+                136,
+                785,
+                668,
+                804
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（3）图示例"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                825,
+                278,
+                841
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5e03fba8610cf091894ee71a889062e75a7e8021f3220446e9ebf36b74a7d5ef.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                258,
+                848,
+                721,
+                995
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dfa877dd8409fdc2cd49f8bb4a03e6702fac72f2bb0da1d22c34120522067af9.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "图1.2□数据通道模块内部结构"
+                    },
+                    {
+                        "type": "text",
+                        "content": "图 2.2□进入 Symbol 操作界面"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                292,
+                243,
+                677,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件八：参考文献示例"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                539,
+                347,
+                557
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "参考文献 (黑体小 2)"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                393,
+                611,
+                606,
+                636
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[1] 戴军，袁惠新.膜技 术 在 含油废水处理 中 的 应 用[J].膜科学 与 技 术 ，2002，22（2）：59-64."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[2] 毛侠，孙云.和谐图案的自动生成研究[A].第一届中国情感计算及智能交互学术会议论文集[C].北京：中国科学院自动化研究所，2003：277-279."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[3] 王湛.膜分离技术基础[M].北京:化学工业出版社，2000：14-21，30."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                665,
+                865,
+                890
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                505,
+                939
+            ]
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "content": {
+                "list_type": "reference_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[4] 张志祥. 间断动力系统的随机扰动及其在守恒律方程中的应用[D].北京:北京大学数学学院,1998."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[5] World Health Organization. Factors regulating the immune response: report of WHO Scientific Group[R]. Geneva: WHO, 1970. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[6] 河北绿洲生态环境科技有限公司.一种荒漠化地区生态植被综合培育种植方法[P]:中国,01129210.5[P/OL]. 2001-10-24."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[7] GB/T16159-1996.汉语拼音证词法基本规则[S].北京：中国标准出版社 ，1996."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[8] 毛侠.情感工学破解“舒服之谜”[N].光明日报，2004-04-17（B1）."
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "[9] 陈剑.上博简《民之父母》“而得既塞於四海矣”句解释[EB/OL］.简帛研究网站，http://www.bamboosilk.org/Wssf/2003/chenjian03.htm，2003-01-18."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                98,
+                867,
+                633
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "( 宋体小 4) "
+                    }
+                ]
+            },
+            "bbox": [
+                453,
+                651,
+                544,
+                668
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                480,
+                686,
+                515,
+                803
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "参考文献格式严格按照《武汉大学本科生毕业论文（设计）工作管理办法（修订）》标注"
+                    }
+                ]
+            },
+            "bbox": [
+                156,
+                813,
+                850,
+                831
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5 "
+                    }
+                ]
+            },
+            "bbox": [
+                492,
+                928,
+                505,
+                939
+            ]
+        }
+    ]
+]

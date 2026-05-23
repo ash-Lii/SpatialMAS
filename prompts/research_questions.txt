@@ -1,0 +1,8 @@
+# SpatialMAS Example Research Questions
+
+1. Which geographic zones show the highest concentration of events during peak hours?
+2. How does demand differ by weekday vs weekend across service regions?
+3. Which entities have the largest month-over-month growth in activity?
+4. Are there strong correlations between travel time and route distance by area?
+5. Which categories contribute most to long-tail outliers in response time?
+6. How do incident hotspots shift over time windows (hour/day/month)?

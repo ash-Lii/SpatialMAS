@@ -1,0 +1,436 @@
+# SAN_FRANCISCO_PLUS Database Schema
+# Generated: 2026-05-20 16:13
+# Tables: 20
+
+## SAN_FRANCISCO_311._311_SERVICE_REQUESTS
+# Rows: 7,263,300
+  unique_key NUMBER(38,0) NULL
+  created_date NUMBER(38,0) NULL
+  closed_date NUMBER(38,0) NULL
+  resolution_action_updated_date NUMBER(38,0) NULL
+  status VARCHAR(16777216) NULL
+  status_notes VARCHAR(16777216) NULL
+  agency_name VARCHAR(16777216) NULL
+  category VARCHAR(16777216) NULL
+  complaint_type VARCHAR(16777216) NULL
+  descriptor VARCHAR(16777216) NULL
+  incident_address VARCHAR(16777216) NULL
+  supervisor_district NUMBER(38,0) NULL
+  neighborhood VARCHAR(16777216) NULL
+  location VARCHAR(16777216) NULL
+  source VARCHAR(16777216) NULL
+  media_url VARCHAR(16777216) NULL
+  latitude FLOAT NULL
+  longitude FLOAT NULL
+  police_district VARCHAR(16777216) NULL
+
+  # Sample data:
+  # Row 1: unique_key=3955557, created_date=1409142727000000, closed_date=1409627641000000, resolution_action_updated_date=1409627641000000, status=Closed
+  # Row 2: unique_key=9434664, created_date=1534840566000000, closed_date=1583472741000000, resolution_action_updated_date=1583472741000000, status=Closed
+
+## SAN_FRANCISCO_BIKESHARE.BIKESHARE_REGIONS
+# Rows: 6
+  region_id NUMBER(38,0) NULL
+  name VARCHAR(16777216) NULL
+
+  # Sample data:
+  # Row 1: region_id=3, name=San Francisco
+  # Row 2: region_id=5, name=San Jose
+
+## SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_INFO
+# Rows: 472
+  station_id VARCHAR(16777216) NULL
+  name VARCHAR(16777216) NULL
+  short_name VARCHAR(16777216) NULL
+  lat FLOAT NULL
+  lon FLOAT NULL
+  region_id NUMBER(38,0) NULL
+  rental_methods VARCHAR(16777216) NULL
+  capacity NUMBER(38,0) NULL
+  external_id VARCHAR(16777216) NULL
+  eightd_has_key_dispenser BOOLEAN NULL
+  has_kiosk BOOLEAN NULL
+  station_geom BINARY(8388608) NULL
+
+  # Sample data:
+  # Row 1: station_id=523, name=Lafayette Park (Laguna St at Washington St), short_name=SF-E21, lat=37.791965999999995, lon=-122.429315
+  # Row 2: station_id=501, name=Balboa Park (San Jose Ave at Sgt. John V. Young Ln, short_name=SF-Y16, lat=37.72489268, lon=-122.4432385
+
+## SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_INFO_VARIANT
+# Rows: 0
+  DATA VARIANT NULL
+
+## SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_STATUS
+# Rows: 553
+  station_id VARCHAR(16777216) NULL
+  num_bikes_available NUMBER(38,0) NULL
+  num_bikes_disabled NUMBER(38,0) NULL
+  num_docks_available NUMBER(38,0) NULL
+  num_docks_disabled NUMBER(38,0) NULL
+  is_installed BOOLEAN NULL
+  is_renting BOOLEAN NULL
+  is_returning BOOLEAN NULL
+  last_reported NUMBER(38,0) NULL
+  num_ebikes_available NUMBER(38,0) NULL
+  eightd_has_available_keys BOOLEAN NULL
+
+  # Sample data:
+  # Row 1: station_id=46b4ef45-b06b-40eb-9fdf-9bc8ff104a4f, num_bikes_available=0, num_bikes_disabled=0, num_docks_available=15, num_docks_disabled=0
+  # Row 2: station_id=bb54f5c8-5578-4167-9599-8e55154de4fd, num_bikes_available=0, num_bikes_disabled=0, num_docks_available=27, num_docks_disabled=0
+
+## SAN_FRANCISCO_BIKESHARE.BIKESHARE_TRIPS
+# Rows: 1,947,417
+  trip_id VARCHAR(16777216) NULL
+  duration_sec NUMBER(38,0) NULL
+  start_date NUMBER(38,0) NULL
+  start_station_name VARCHAR(16777216) NULL
+  start_station_id NUMBER(38,0) NULL
+  end_date NUMBER(38,0) NULL
+  end_station_name VARCHAR(16777216) NULL
+  end_station_id NUMBER(38,0) NULL
+  bike_number NUMBER(38,0) NULL
+  zip_code VARCHAR(16777216) NULL
+  subscriber_type VARCHAR(16777216) NULL
+  c_subscription_type VARCHAR(16777216) NULL
+  start_station_latitude FLOAT NULL
+  start_station_longitude FLOAT NULL
+  end_station_latitude FLOAT NULL
+  end_station_longitude FLOAT NULL
+  member_birth_year NUMBER(38,0) NULL
+  member_gender VARCHAR(16777216) NULL
+  bike_share_for_all_trip VARCHAR(16777216) NULL
+  start_station_geom BINARY(8388608) NULL
+  end_station_geom BINARY(8388608) NULL
+
+  # Sample data:
+  # Row 1: trip_id=20171215164722144, duration_sec=501, start_date=1513356442000000, start_station_name=10th St at Fallon St, start_station_id=201
+  # Row 2: trip_id=201801231156491392, duration_sec=614, start_date=1516708609000000, start_station_name=10th St at Fallon St, start_station_id=201
+
+## SAN_FRANCISCO_FILM_LOCATIONS.FILM_LOCATIONS
+# Rows: 2,084
+  title VARCHAR(16777216) NULL
+  release_year NUMBER(38,0) NULL
+  locations VARCHAR(16777216) NULL
+  fun_facts VARCHAR(16777216) NULL
+  production_company VARCHAR(16777216) NULL
+  distributor VARCHAR(16777216) NULL
+  director VARCHAR(16777216) NULL
+  writer VARCHAR(16777216) NULL
+  actor_1 VARCHAR(16777216) NULL
+  actor_2 VARCHAR(16777216) NULL
+  actor_3 VARCHAR(16777216) NULL
+
+  # Sample data:
+  # Row 1: title=A Jitney Elopement, release_year=1915, locations=20th and Folsom Streets, fun_facts=None, production_company=The Essanay Film Manufacturing Company
+  # Row 2: title=A Jitney Elopement, release_year=1915, locations=Golden Gate Park, fun_facts=During San Francisco's Gold Rush era, the Park was part of an area designated..., production_company=The Essanay Film Manufacturing Company
+
+## SAN_FRANCISCO_NEIGHBORHOODS.BOUNDARIES
+# Rows: 117
+  neighborhood VARCHAR(16777216) NULL
+  internal_point_latitude FLOAT NULL
+  internal_point_longitude FLOAT NULL
+  internal_point_geom BINARY(8388608) NULL
+  neighborhood_geom BINARY(8388608) NULL
+
+  # Sample data:
+  # Row 1: neighborhood=McLaren Park, internal_point_latitude=37.71823274485201, internal_point_longitude=-122.41877795383616, internal_point_geom=<BINARY>, neighborhood_geom=<BINARY>
+  # Row 2: neighborhood=Bret Harte, internal_point_latitude=37.720159165800204, internal_point_longitude=-122.39265922332002, internal_point_geom=<BINARY>, neighborhood_geom=<BINARY>
+
+## SAN_FRANCISCO_SFFD_SERVICE_CALLS.SFFD_SERVICE_CALLS
+# Rows: 6,734,089
+  call_number NUMBER(38,0) NULL
+  unit_id VARCHAR(16777216) NULL
+  incident_number NUMBER(38,0) NULL
+  call_type VARCHAR(16777216) NULL
+  call_date DATE NULL
+  watch_date DATE NULL
+  received_timestamp NUMBER(38,0) NULL
+  entry_timestamp NUMBER(38,0) NULL
+  dispatch_timestamp NUMBER(38,0) NULL
+  response_timestamp NUMBER(38,0) NULL
+  on_scene_timestamp NUMBER(38,0) NULL
+  transport_timestamp NUMBER(38,0) NULL
+  hospital_timestamp NUMBER(38,0) NULL
+  call_final_disposition VARCHAR(16777216) NULL
+  available_timestamp NUMBER(38,0) NULL
+  address VARCHAR(16777216) NULL
+  city VARCHAR(16777216) NULL
+  zipcode_of_incident VARCHAR(16777216) NULL
+  battalion VARCHAR(16777216) NULL
+  station_area VARCHAR(16777216) NULL
+  box VARCHAR(16777216) NULL
+  original_priority VARCHAR(16777216) NULL
+  priority VARCHAR(16777216) NULL
+  final_priority NUMBER(38,0) NULL
+  als_unit BOOLEAN NULL
+  call_type_group VARCHAR(16777216) NULL
+  number_of_alarms NUMBER(38,0) NULL
+  unit_type VARCHAR(16777216) NULL
+  unit_sequence_in_call_dispatch NUMBER(38,0) NULL
+  fire_prevention_district VARCHAR(16777216) NULL
+  supervisor_district VARCHAR(16777216) NULL
+  row_id VARCHAR(16777216) NULL
+  latitude FLOAT NULL
+  longitude FLOAT NULL
+  neighborhood_name VARCHAR(16777216) NULL
+  location_geom BINARY(8388608) NULL
+
+  # Sample data:
+  # Row 1: call_number=183042475, unit_id=50, incident_number=18127489, call_type=Medical Incident, call_date=2018-10-31
+  # Row 2: call_number=173392106, unit_id=SFR1, incident_number=17142057, call_type=Mutual Aid / Assist Outside Agency, call_date=2017-12-05
+
+## SAN_FRANCISCO_SFPD_INCIDENTS.SFPD_INCIDENTS
+# Rows: 0
+  unique_key NUMBER(38,0) NULL
+  category VARCHAR(16777216) NULL
+  descript VARCHAR(16777216) NULL
+  dayofweek VARCHAR(16777216) NULL
+  pddistrict VARCHAR(16777216) NULL
+  resolution VARCHAR(16777216) NULL
+  address VARCHAR(16777216) NULL
+  longitude FLOAT NULL
+  latitude FLOAT NULL
+  location VARCHAR(16777216) NULL
+  pdid NUMBER(38,0) NULL
+  timestamp NUMBER(38,0) NULL
+
+## SAN_FRANCISCO_TRANSIT_MUNI.CALENDAR
+# Rows: 8
+  service_id VARCHAR(16777216) NULL
+  service_desc VARCHAR(16777216) NULL
+  sunday BOOLEAN NULL
+  monday BOOLEAN NULL
+  tuesday BOOLEAN NULL
+  wednesday BOOLEAN NULL
+  thursday BOOLEAN NULL
+  friday BOOLEAN NULL
+  saturday BOOLEAN NULL
+  exceptions DATE NULL
+  exception_type BOOLEAN NULL
+
+  # Sample data:
+  # Row 1: service_id=73692, service_desc=Weekday, sunday=True, monday=True, tuesday=True
+  # Row 2: service_id=73692, service_desc=Weekday, sunday=True, monday=True, tuesday=True
+
+## SAN_FRANCISCO_TRANSIT_MUNI.FARES
+# Rows: 8
+  fare_id VARCHAR(16777216) NULL
+  rider_id VARCHAR(16777216) NULL
+  rider_desc VARCHAR(16777216) NULL
+  price NUMBER(38,9) NULL
+  payment_method VARCHAR(16777216) NULL
+  transfers_permitted VARCHAR(16777216) NULL
+  transfer_duration NUMBER(38,0) NULL
+
+  # Sample data:
+  # Row 1: fare_id=5398, rider_id=6, rider_desc=Disabled, price=3.0, payment_method=0
+  # Row 2: fare_id=5398, rider_id=5, rider_desc=Youth, price=3.0, payment_method=0
+
+## SAN_FRANCISCO_TRANSIT_MUNI.ROUTES
+# Rows: 83
+  route_id VARCHAR(16777216) NULL
+  route_short_name VARCHAR(16777216) NULL
+  route_long_name VARCHAR(16777216) NULL
+  route_type VARCHAR(16777216) NULL
+
+  # Sample data:
+  # Row 1: route_id=83X, route_short_name=83X, route_long_name=MID-MARKET EXPRESS, route_type=3
+  # Row 2: route_id=82X, route_short_name=82X, route_long_name=LEVI PLAZA EXPRESS, route_type=3
+
+## SAN_FRANCISCO_TRANSIT_MUNI.SHAPES
+# Rows: 187,288
+  shape_id VARCHAR(16777216) NULL
+  shape_point_sequence NUMBER(38,0) NULL
+  shape_point_lat FLOAT NULL
+  shape_point_lon FLOAT NULL
+  shape_point_geom BINARY(8388608) NULL
+  shape_distance_traveled FLOAT NULL
+
+  # Sample data:
+  # Row 1: shape_id=173975, shape_point_sequence=197, shape_point_lat=37.715079, shape_point_lon=-122.424956, shape_point_geom=<BINARY>
+  # Row 2: shape_id=173976, shape_point_sequence=195, shape_point_lat=37.715079, shape_point_lon=-122.424956, shape_point_geom=<BINARY>
+
+## SAN_FRANCISCO_TRANSIT_MUNI.STOPS
+# Rows: 3,514
+  stop_id VARCHAR(16777216) NULL
+  stop_name VARCHAR(16777216) NULL
+  stop_lat FLOAT NULL
+  stop_lon FLOAT NULL
+  stop_geom BINARY(8388608) NULL
+
+  # Sample data:
+  # Row 1: stop_id=15829, stop_name=100 O'Shaughnessy Blvd, stop_lat=37.744481, stop_lon=-122.450678, stop_geom=<BINARY>
+  # Row 2: stop_id=14343, stop_name=101 Dakota St, stop_lat=37.75374, stop_lon=-122.39565, stop_geom=<BINARY>
+
+## SAN_FRANCISCO_TRANSIT_MUNI.STOP_MONITORING
+# Rows: 25,826,668
+  time_recorded NUMBER(38,0) NULL
+  stop_id VARCHAR(16777216) NULL
+  stop_name VARCHAR(16777216) NULL
+  route_id VARCHAR(16777216) NULL
+  direction VARCHAR(16777216) NULL
+  trip_date DATE NULL
+  trip_id VARCHAR(16777216) NULL
+  route_long_name VARCHAR(16777216) NULL
+  vehicle_location_lat FLOAT NULL
+  vehicle_location_lon FLOAT NULL
+  vehicle_location BINARY(8388608) NULL
+  vehicle_id VARCHAR(16777216) NULL
+  vehicle_at_stop BOOLEAN NULL
+  aimed_arrival_time NUMBER(38,0) NULL
+  aimed_departure_time NUMBER(38,0) NULL
+
+  # Sample data:
+  # Row 1: time_recorded=1641600054000000, stop_id=16315, stop_name=Sacramento St & Sproule Ln, route_id=1, direction=OB
+  # Row 2: time_recorded=1641600054000000, stop_id=13886, stop_name=California St & Park Presidio Blvd, route_id=1, direction=OB
+
+## SAN_FRANCISCO_TRANSIT_MUNI.STOP_TIMES
+# Rows: 1,105,370
+  stop_id NUMBER(38,0) NULL
+  trip_id NUMBER(38,0) NULL
+  stop_sequence NUMBER(38,0) NULL
+  arrival_time TIME(9) NULL
+  arrives_next_day BOOLEAN NULL
+  departure_time TIME(9) NULL
+  departs_next_day BOOLEAN NULL
+  dropoff_type VARCHAR(16777216) NULL
+  exact_timepoint BOOLEAN NULL
+
+  # Sample data:
+  # Row 1: stop_id=15759, trip_id=8951406, stop_sequence=51, arrival_time=06:54:55, arrives_next_day=False
+  # Row 2: stop_id=15761, trip_id=8951406, stop_sequence=52, arrival_time=06:55:33, arrives_next_day=False
+
+## SAN_FRANCISCO_TRANSIT_MUNI.TRIPS
+# Rows: 28,811
+  trip_id VARCHAR(16777216) NULL
+  route_id VARCHAR(16777216) NULL
+  direction VARCHAR(16777216) NULL
+  block_id VARCHAR(16777216) NULL
+  service_category VARCHAR(16777216) NULL
+  trip_headsign VARCHAR(16777216) NULL
+  shape_id VARCHAR(16777216) NULL
+  trip_shape BINARY(8388608) NULL
+
+  # Sample data:
+  # Row 1: trip_id=8999876, route_id=83X, direction=O, block_id=8301, service_category=None
+  # Row 2: trip_id=8999873, route_id=83X, direction=O, block_id=8302, service_category=None
+
+## SAN_FRANCISCO_TRANSIT_MUNI.VEHICLE_MONITORING
+# Rows: 104
+  time_recorded NUMBER(38,0) NULL
+  route_id VARCHAR(16777216) NULL
+  direction VARCHAR(16777216) NULL
+  trip_date DATE NULL
+  trip_id VARCHAR(16777216) NULL
+  route_long_name VARCHAR(16777216) NULL
+  vehicle_location_lat FLOAT NULL
+  vehicle_location_lon FLOAT NULL
+  vehicle_location BINARY(8388608) NULL
+  vehicle_id VARCHAR(16777216) NULL
+  next_stop_id VARCHAR(16777216) NULL
+  next_stop_name VARCHAR(16777216) NULL
+  next_stop_expected_arrival_time NUMBER(38,0) NULL
+  next_stop_aimed_arrival_time NUMBER(38,0) NULL
+  next_stop_expected_departure_time NUMBER(38,0) NULL
+  next_stop_aimed_departure_time NUMBER(38,0) NULL
+  onward_stop_id_1 VARCHAR(16777216) NULL
+  onward_stop_name_1 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_1 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_1 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_1 NUMBER(38,0) NULL
+  onward_stop_id_2 VARCHAR(16777216) NULL
+  onward_stop_name_2 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_2 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_2 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_2 NUMBER(38,0) NULL
+  onward_stop_id_3 VARCHAR(16777216) NULL
+  onward_stop_name_3 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_3 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_3 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_3 NUMBER(38,0) NULL
+  onward_stop_id_4 VARCHAR(16777216) NULL
+  onward_stop_name_4 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_4 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_4 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_4 NUMBER(38,0) NULL
+  onward_stop_id_5 VARCHAR(16777216) NULL
+  onward_stop_name_5 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_5 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_5 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_5 NUMBER(38,0) NULL
+  onward_stop_id_6 VARCHAR(16777216) NULL
+  onward_stop_name_6 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_6 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_6 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_6 NUMBER(38,0) NULL
+  onward_stop_id_7 VARCHAR(16777216) NULL
+  onward_stop_name_7 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_7 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_7 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_7 NUMBER(38,0) NULL
+  onward_stop_id_8 VARCHAR(16777216) NULL
+  onward_stop_name_8 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_8 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_8 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_8 NUMBER(38,0) NULL
+  onward_stop_id_9 VARCHAR(16777216) NULL
+  onward_stop_name_9 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_9 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_9 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_9 NUMBER(38,0) NULL
+  onward_stop_id_10 VARCHAR(16777216) NULL
+  onward_stop_name_10 VARCHAR(16777216) NULL
+  onward_stop_expected_arrival_time_10 NUMBER(38,0) NULL
+  onward_stop_aimed_arrival_time_10 NUMBER(38,0) NULL
+  onward_stop_aimed_departure_time_10 NUMBER(38,0) NULL
+
+  # Sample data:
+  # Row 1: time_recorded=1639295864000000, route_id=J, direction=IB, trip_date=2021-12-11, trip_id=10419857
+  # Row 2: time_recorded=1639295864000000, route_id=N, direction=IB, trip_date=2021-12-11, trip_id=10420258
+
+## SAN_FRANCISCO_TREES.STREET_TREES
+# Rows: 198,354
+  tree_id NUMBER(38,0) NULL
+  legal_status VARCHAR(16777216) NULL
+  species VARCHAR(16777216) NULL
+  address VARCHAR(16777216) NULL
+  site_order NUMBER(38,0) NULL
+  site_info VARCHAR(16777216) NULL
+  plant_type VARCHAR(16777216) NULL
+  care_taker VARCHAR(16777216) NULL
+  care_assistant VARCHAR(16777216) NULL
+  plant_date NUMBER(38,0) NULL
+  dbh VARCHAR(16777216) NULL
+  plot_size VARCHAR(16777216) NULL
+  permit_notes VARCHAR(16777216) NULL
+  x_coordinate FLOAT NULL
+  y_coordinate FLOAT NULL
+  latitude FLOAT NULL
+  longitude FLOAT NULL
+  location VARCHAR(16777216) NULL
+
+  # Sample data:
+  # Row 1: tree_id=30483, legal_status=Permitted Site, species=Tree(s) ::, address=None, site_order=4
+  # Row 2: tree_id=45997, legal_status=Permitted Site, species=Tree(s) ::, address=None, site_order=115
+
+## Relationships
+  SAN_FRANCISCO_BIKESHARE.BIKESHARE_REGIONS.region_id -> SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_INFO.region_id
+  SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_INFO.station_id -> SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_STATUS.station_id
+  SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_INFO.region_id -> SAN_FRANCISCO_BIKESHARE.BIKESHARE_REGIONS.region_id
+  SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_STATUS.station_id -> SAN_FRANCISCO_BIKESHARE.BIKESHARE_STATION_INFO.station_id
+  SAN_FRANCISCO_BIKESHARE.BIKESHARE_TRIPS.trip_id -> SAN_FRANCISCO_TRANSIT_MUNI.TRIPS.trip_id
+  SAN_FRANCISCO_TRANSIT_MUNI.ROUTES.route_id -> SAN_FRANCISCO_TRANSIT_MUNI.STOP_MONITORING.route_id
+  SAN_FRANCISCO_TRANSIT_MUNI.SHAPES.shape_id -> SAN_FRANCISCO_TRANSIT_MUNI.TRIPS.shape_id
+  SAN_FRANCISCO_TRANSIT_MUNI.STOPS.stop_id -> SAN_FRANCISCO_TRANSIT_MUNI.STOP_MONITORING.stop_id
+  SAN_FRANCISCO_TRANSIT_MUNI.STOP_MONITORING.stop_id -> SAN_FRANCISCO_TRANSIT_MUNI.STOPS.stop_id
+  SAN_FRANCISCO_TRANSIT_MUNI.STOP_MONITORING.route_id -> SAN_FRANCISCO_TRANSIT_MUNI.ROUTES.route_id
+  SAN_FRANCISCO_TRANSIT_MUNI.STOP_MONITORING.trip_id -> SAN_FRANCISCO_TRANSIT_MUNI.TRIPS.trip_id
+  SAN_FRANCISCO_TRANSIT_MUNI.STOP_MONITORING.vehicle_id -> SAN_FRANCISCO_TRANSIT_MUNI.VEHICLE_MONITORING.vehicle_id
+  SAN_FRANCISCO_TRANSIT_MUNI.STOP_TIMES.stop_id -> SAN_FRANCISCO_TRANSIT_MUNI.STOPS.stop_id
+  SAN_FRANCISCO_TRANSIT_MUNI.STOP_TIMES.trip_id -> SAN_FRANCISCO_TRANSIT_MUNI.TRIPS.trip_id
+  SAN_FRANCISCO_TRANSIT_MUNI.TRIPS.trip_id -> SAN_FRANCISCO_BIKESHARE.BIKESHARE_TRIPS.trip_id
+  SAN_FRANCISCO_TRANSIT_MUNI.TRIPS.route_id -> SAN_FRANCISCO_TRANSIT_MUNI.ROUTES.route_id
+  SAN_FRANCISCO_TRANSIT_MUNI.TRIPS.shape_id -> SAN_FRANCISCO_TRANSIT_MUNI.SHAPES.shape_id
+  SAN_FRANCISCO_TRANSIT_MUNI.VEHICLE_MONITORING.route_id -> SAN_FRANCISCO_TRANSIT_MUNI.ROUTES.route_id
+  SAN_FRANCISCO_TRANSIT_MUNI.VEHICLE_MONITORING.trip_id -> SAN_FRANCISCO_TRANSIT_MUNI.TRIPS.trip_id
+  SAN_FRANCISCO_TRANSIT_MUNI.VEHICLE_MONITORING.vehicle_id -> SAN_FRANCISCO_TRANSIT_MUNI.STOP_MONITORING.vehicle_id

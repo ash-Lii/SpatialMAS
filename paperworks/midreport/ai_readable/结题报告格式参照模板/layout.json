@@ -1,0 +1,4977 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        165,
+                        215,
+                        454,
+                        246
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                216,
+                                455,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        216,
+                                        455,
+                                        248
+                                    ],
+                                    "type": "text",
+                                    "content": "武汉大学大学生创新训练",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        204,
+                        280,
+                        414,
+                        311
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                202,
+                                281,
+                                415,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        281,
+                                        415,
+                                        314
+                                    ],
+                                    "type": "text",
+                                    "content": "计划项目结题报告",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        273,
+                        338,
+                        345,
+                        351
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                273,
+                                338,
+                                345,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        338,
+                                        345,
+                                        352
+                                    ],
+                                    "type": "text",
+                                    "content": "（1号宋体居中）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        98,
+                        440,
+                        502,
+                        466
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                439,
+                                503,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        439,
+                                        503,
+                                        467
+                                    ],
+                                    "type": "text",
+                                    "content": "Altera DDR IPCore 在海量图像无级缩放",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        185,
+                        503,
+                        408,
+                        528
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                184,
+                                502,
+                                409,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        184,
+                                        502,
+                                        409,
+                                        531
+                                    ],
+                                    "type": "text",
+                                    "content": "硬件实现系统中的应用",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        273,
+                        602,
+                        345,
+                        614
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                273,
+                                602,
+                                345,
+                                616
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        602,
+                                        345,
+                                        616
+                                    ],
+                                    "type": "text",
+                                    "content": "（2 号黑体居中）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        217,
+                        677,
+                        395,
+                        694
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                674,
+                                397,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        674,
+                                        397,
+                                        698
+                                    ],
+                                    "type": "text",
+                                    "content": "院（系）名 称：XXXXXX",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        217,
+                        719,
+                        380,
+                        735
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                716,
+                                381,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        716,
+                                        381,
+                                        739
+                                    ],
+                                    "type": "text",
+                                    "content": "专 业 名 称 ：XXXXXX",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        82,
+                        84,
+                        183,
+                        98
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                84,
+                                182,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        84,
+                                        182,
+                                        99
+                                    ],
+                                    "type": "text",
+                                    "content": "附件一：封面示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        249,
+                        211,
+                        377,
+                        232
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                211,
+                                379,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        211,
+                                        379,
+                                        235
+                                    ],
+                                    "type": "text",
+                                    "content": "二○一三年三月",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        297,
+                        207,
+                        312
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                296,
+                                205,
+                                313
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        296,
+                                        205,
+                                        313
+                                    ],
+                                    "type": "text",
+                                    "content": "附件二：英文扉页示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        130,
+                        354,
+                        464,
+                        378
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                127,
+                                354,
+                                465,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        354,
+                                        465,
+                                        381
+                                    ],
+                                    "type": "text",
+                                    "content": "INTERIM REPORT OF PLANNING",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        136,
+                        401,
+                        458,
+                        423
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                135,
+                                401,
+                                458,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        135,
+                                        401,
+                                        458,
+                                        428
+                                    ],
+                                    "type": "text",
+                                    "content": "PROJECT OF INNOVATION AND",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        115,
+                        449,
+                        480,
+                        470
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                113,
+                                448,
+                                481,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        448,
+                                        481,
+                                        476
+                                    ],
+                                    "type": "text",
+                                    "content": "ENTREPRENEURSHIP TRAINING OF",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        137,
+                        496,
+                        457,
+                        517
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                136,
+                                496,
+                                459,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        496,
+                                        459,
+                                        521
+                                    ],
+                                    "type": "text",
+                                    "content": "UNDERGRADUATE OF WUHAN",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        229,
+                        543,
+                        364,
+                        563
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                229,
+                                543,
+                                364,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        229,
+                                        543,
+                                        364,
+                                        565
+                                    ],
+                                    "type": "text",
+                                    "content": "UNIVERSITY",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        241,
+                        582,
+                        377,
+                        596
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                243,
+                                582,
+                                376,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        243,
+                                        582,
+                                        376,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "（Times New Roman 2 号居中）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        163,
+                        631,
+                        456,
+                        656
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                162,
+                                627,
+                                458,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        162,
+                                        627,
+                                        458,
+                                        659
+                                    ],
+                                    "type": "text",
+                                    "content": "Writing the Title of the Report",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        239,
+                        675,
+                        385,
+                        699
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                238,
+                                672,
+                                386,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        238,
+                                        672,
+                                        386,
+                                        701
+                                    ],
+                                    "type": "text",
+                                    "content": "in English here",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        241,
+                        715,
+                        377,
+                        729
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                242,
+                                714,
+                                376,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        242,
+                                        714,
+                                        376,
+                                        729
+                                    ],
+                                    "type": "text",
+                                    "content": "（Times New Roman 2 号居中）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        217,
+                        83,
+                        467,
+                        100
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                81,
+                                468,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        81,
+                                        468,
+                                        105
+                                    ],
+                                    "type": "text",
+                                    "content": "学 生 姓 名 ：XXX XXX XXX XXX",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        217,
+                        124,
+                        409,
+                        142
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                121,
+                                409,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        121,
+                                        348,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "指 导 教 师 ：XXX",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        372,
+                                        121,
+                                        409,
+                                        146
+                                    ],
+                                    "type": "text",
+                                    "content": "教授",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        269,
+                        160,
+                        320,
+                        174
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                270,
+                                159,
+                                320,
+                                175
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        270,
+                                        159,
+                                        320,
+                                        175
+                                    ],
+                                    "type": "text",
+                                    "content": "（宋体小 3）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        208,
+                        84,
+                        343,
+                        100
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                208,
+                                82,
+                                345,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        208,
+                                        82,
+                                        345,
+                                        104
+                                    ],
+                                    "type": "text",
+                                    "content": "College ：XXX XXX",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        208,
+                        126,
+                        342,
+                        142
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                207,
+                                125,
+                                344,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        125,
+                                        344,
+                                        144
+                                    ],
+                                    "type": "text",
+                                    "content": "Subject ：XXX XXX",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        208,
+                        168,
+                        405,
+                        181
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                207,
+                                166,
+                                406,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        166,
+                                        406,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "Name ：XXX XXX XXX XXX",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        208,
+                        209,
+                        374,
+                        223
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                209,
+                                207,
+                                374,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        209,
+                                        207,
+                                        374,
+                                        227
+                                    ],
+                                    "type": "text",
+                                    "content": "Director ：XXX Professor",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        227,
+                        243,
+                        365,
+                        255
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                229,
+                                241,
+                                365,
+                                256
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        229,
+                                        241,
+                                        365,
+                                        256
+                                    ],
+                                    "type": "text",
+                                    "content": "（Times New Roman 4 号居中）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        264,
+                        315,
+                        354,
+                        331
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                263,
+                                312,
+                                355,
+                                334
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        263,
+                                        312,
+                                        355,
+                                        334
+                                    ],
+                                    "type": "text",
+                                    "content": "March 2013",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        235,
+                        350,
+                        381,
+                        364
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                236,
+                                349,
+                                382,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        236,
+                                        349,
+                                        382,
+                                        365
+                                    ],
+                                    "type": "text",
+                                    "content": "（Times New Roman 小 2 号居中）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        104,
+                        405,
+                        239,
+                        419
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                401,
+                                239,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        401,
+                                        239,
+                                        423
+                                    ],
+                                    "type": "text",
+                                    "content": "中期报告：Interim Report",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        104,
+                        444,
+                        228,
+                        459
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                442,
+                                229,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        442,
+                                        229,
+                                        462
+                                    ],
+                                    "type": "text",
+                                    "content": "结题报告：Final Report",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        484,
+                        182,
+                        497
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                483,
+                                182,
+                                499
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        483,
+                                        182,
+                                        499
+                                    ],
+                                    "type": "text",
+                                    "content": "附件三：声明示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        265,
+                        573,
+                        372,
+                        597
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                265,
+                                572,
+                                374,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        265,
+                                        572,
+                                        374,
+                                        602
+                                    ],
+                                    "type": "text",
+                                    "content": "郑 重 声 明",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        679,
+                        512,
+                        743
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                112,
+                                679,
+                                511,
+                                697
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        679,
+                                        511,
+                                        697
+                                    ],
+                                    "type": "text",
+                                    "content": "本项目组呈交的中期报告，是在导师的指导下，独立进行研究工作",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                726,
+                                511,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        726,
+                                        511,
+                                        744
+                                    ],
+                                    "type": "text",
+                                    "content": "所取得的成果，所有数据、图片资料真实可靠。尽我们所知，除文中已经",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        82,
+                        83,
+                        506,
+                        100
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                81,
+                                508,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        81,
+                                        508,
+                                        101
+                                    ],
+                                    "type": "text",
+                                    "content": "注明引用的内容外，本报告的研究成果不包含他人享有著作权的内容。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        129,
+                        504,
+                        146
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                128,
+                                506,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        128,
+                                        506,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "对本报告所涉及的研究工作做出贡献的其他个人和集体，均已在文中",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        176,
+                        427,
+                        193
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                175,
+                                427,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        175,
+                                        427,
+                                        195
+                                    ],
+                                    "type": "text",
+                                    "content": "以明确的方式标明。本报告的知识产权归属于培养单位。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        117,
+                        268,
+                        305,
+                        285
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                117,
+                                267,
+                                309,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        267,
+                                        204,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": "项目组签名：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        268,
+                                        267,
+                                        309,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": "日期：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        82,
+                        84,
+                        283,
+                        98
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                84,
+                                284,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        84,
+                                        284,
+                                        100
+                                    ],
+                                    "type": "text",
+                                    "content": "附件四：（1）中文摘要、关键词示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        259,
+                        143,
+                        333,
+                        163
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                257,
+                                140,
+                                337,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        257,
+                                        140,
+                                        337,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "摘□□要",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        271,
+                        183,
+                        322,
+                        196
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                182,
+                                323,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        182,
+                                        323,
+                                        197
+                                    ],
+                                    "type": "text",
+                                    "content": "（黑体小 2）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        213,
+                        512,
+                        416
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                214,
+                                509,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        214,
+                                        509,
+                                        227
+                                    ],
+                                    "type": "text",
+                                    "content": "目前对于CCD相机捕获的卫星图像的浏览和动态缩放这个比较棘手的问题的",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                260,
+                                510,
+                                275
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        260,
+                                        510,
+                                        275
+                                    ],
+                                    "type": "text",
+                                    "content": "解决方案大多是通过对原始图像进行分割，然后分块显示。这些方法实现起来相对",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                307,
+                                511,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        307,
+                                        511,
+                                        322
+                                    ],
+                                    "type": "text",
+                                    "content": "比较容易，开发成本也比较低，但是局限性非常之大，使浏览极为不便，移植性也较",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                353,
+                                510,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        353,
+                                        510,
+                                        369
+                                    ],
+                                    "type": "text",
+                                    "content": "差。在本项目中为了解决海量图像方面的这个技术瓶颈，提出了大容量缓存加无级",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                399,
+                                236,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        399,
+                                        236,
+                                        417
+                                    ],
+                                    "type": "text",
+                                    "content": "缩放算法的方案。 (宋体小 4 )",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        781,
+                        299,
+                        790
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                294,
+                                782,
+                                300,
+                                792
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        294,
+                                        782,
+                                        300,
+                                        792
+                                    ],
+                                    "type": "text",
+                                    "content": "I",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        105,
+                        152,
+                        431,
+                        167
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                152,
+                                431,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        152,
+                                        431,
+                                        167
+                                    ],
+                                    "type": "text",
+                                    "content": "关键词：关键词1；关键词2；关键词3；关键词4；关键词5",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        110,
+                        185,
+                        161,
+                        198
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                183,
+                                161,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        183,
+                                        161,
+                                        200
+                                    ],
+                                    "type": "text",
+                                    "content": "（黑体小 4）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        202,
+                        185,
+                        252,
+                        198
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                201,
+                                184,
+                                253,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        184,
+                                        253,
+                                        200
+                                    ],
+                                    "type": "text",
+                                    "content": "（宋体小 4）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        238,
+                        285,
+                        253
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                237,
+                                285,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        237,
+                                        285,
+                                        253
+                                    ],
+                                    "type": "text",
+                                    "content": "附件四：（2）英文摘要、关键词示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        246,
+                        298,
+                        348,
+                        316
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                297,
+                                349,
+                                319
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        297,
+                                        349,
+                                        319
+                                    ],
+                                    "type": "text",
+                                    "content": "ABSTRACT",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        227,
+                        334,
+                        366,
+                        347
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                227,
+                                333,
+                                367,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        227,
+                                        333,
+                                        367,
+                                        348
+                                    ],
+                                    "type": "text",
+                                    "content": "(Times New Roman 小 2 加粗)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        81,
+                        357,
+                        510,
+                        395
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                107,
+                                357,
+                                511,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        357,
+                                        511,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "This report is carried out on the basis of the 211 project-Ssmi-physical simulation",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                380,
+                                392,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        380,
+                                        392,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "system for ship motion control. …… (Times New Roman 小 4 号)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        295,
+                        781,
+                        301,
+                        790
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": []
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        105,
+                        199,
+                        370,
+                        212
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                198,
+                                370,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        198,
+                                        370,
+                                        215
+                                    ],
+                                    "type": "text",
+                                    "content": "Key words: motion control；autopilot；neural；GIS",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        101,
+                        238,
+                        395,
+                        252
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                103,
+                                236,
+                                396,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        103,
+                                        236,
+                                        396,
+                                        254
+                                    ],
+                                    "type": "text",
+                                    "content": "（Times New Roman 体小 4 加粗） （Times New Roman 体小 4）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        317,
+                        173,
+                        331
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                317,
+                                173,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        317,
+                                        173,
+                                        333
+                                    ],
+                                    "type": "text",
+                                    "content": "附件五:目录示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        230,
+                        394,
+                        358,
+                        413
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                229,
+                                391,
+                                361,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        229,
+                                        391,
+                                        361,
+                                        418
+                                    ],
+                                    "type": "text",
+                                    "content": "目□□录（黑体小 2）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        439,
+                        506,
+                        455
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                434,
+                                119,
+                                460
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        434,
+                                        119,
+                                        460
+                                    ],
+                                    "type": "text",
+                                    "content": "摘要…",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        481,
+                        440,
+                        496
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                480,
+                                157,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        480,
+                                        157,
+                                        497
+                                    ],
+                                    "type": "text",
+                                    "content": "ABSTRACT…",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        84,
+                        520,
+                        508,
+                        537
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                518,
+                                185,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        518,
+                                        185,
+                                        539
+                                    ],
+                                    "type": "text",
+                                    "content": "第1章□绪论…",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        293,
+                        555,
+                        301,
+                        565
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                555,
+                                301,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        555,
+                                        301,
+                                        567
+                                    ],
+                                    "type": "text",
+                                    "content": "1",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        582,
+                        511,
+                        597
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                581,
+                                185,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        581,
+                                        185,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "□□1.1□研究背景",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        107,
+                        622,
+                        512,
+                        717
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                107,
+                                622,
+                                511,
+                                637
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        620,
+                                        509,
+                                        637
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                106,
+                                                620,
+                                                188,
+                                                637
+                                            ],
+                                            "type": "text",
+                                            "content": "1.2□研究意义",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                503,
+                                                625,
+                                                509,
+                                                634
+                                            ],
+                                            "type": "text",
+                                            "content": "3",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                661,
+                                512,
+                                677
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 10,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        660,
+                                        188,
+                                        678
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                660,
+                                                188,
+                                                678
+                                            ],
+                                            "type": "text",
+                                            "content": "1.3□研究方法",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                702,
+                                512,
+                                717
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        701,
+                                        508,
+                                        717
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                701,
+                                                187,
+                                                717
+                                            ],
+                                            "type": "text",
+                                            "content": "1.4□研究内容",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                505,
+                                                707,
+                                                508,
+                                                713
+                                            ],
+                                            "type": "text",
+                                            "content": "8",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        120,
+                        734,
+                        476,
+                        748
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                734,
+                                476,
+                                749
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        734,
+                                        476,
+                                        749
+                                    ],
+                                    "type": "text",
+                                    "content": "（各章的名称黑体4号，其余宋体小4，最右端页码为Times New Roman 5号）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        283,
+                        762,
+                        311,
+                        771
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": []
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        291,
+                        781,
+                        302,
+                        790
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                290,
+                                781,
+                                304,
+                                793
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        290,
+                                        781,
+                                        304,
+                                        793
+                                    ],
+                                    "type": "text",
+                                    "content": "III",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        83,
+                        105,
+                        509,
+                        122
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                105,
+                                282,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        105,
+                                        282,
+                                        122
+                                    ],
+                                    "type": "text",
+                                    "content": "第3章□关于海量图像无级缩放",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        83,
+                        148,
+                        511,
+                        281
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 5,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                83,
+                                148,
+                                509,
+                                163
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        148,
+                                        509,
+                                        163
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                148,
+                                                234,
+                                                163
+                                            ],
+                                            "type": "text",
+                                            "content": "□□3.1□无级缩放算法原理",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                500,
+                                                153,
+                                                509,
+                                                160
+                                            ],
+                                            "type": "text",
+                                            "content": "21",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                107,
+                                188,
+                                511,
+                                203
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        188,
+                                        511,
+                                        202
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                105,
+                                                188,
+                                                268,
+                                                202
+                                            ],
+                                            "type": "text",
+                                            "content": "3.2□无级缩放算法的PC模拟",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                494,
+                                                190,
+                                                511,
+                                                201
+                                            ],
+                                            "type": "text",
+                                            "content": "25",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                228,
+                                434,
+                                243
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        228,
+                                        434,
+                                        243
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                85,
+                                                228,
+                                                168,
+                                                243
+                                            ],
+                                            "type": "text",
+                                            "content": "□□□□3.2.1□",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                420,
+                                                229,
+                                                434,
+                                                241
+                                            ],
+                                            "type": "text",
+                                            "content": "25",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                268,
+                                434,
+                                281
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        268,
+                                        434,
+                                        282
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                85,
+                                                268,
+                                                168,
+                                                282
+                                            ],
+                                            "type": "text",
+                                            "content": "□□□□3.2.2□",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                420,
+                                                269,
+                                                434,
+                                                280
+                                            ],
+                                            "type": "text",
+                                            "content": "28",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        283,
+                        304,
+                        311,
+                        357
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 9,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                283,
+                                304,
+                                311,
+                                312
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                283,
+                                327,
+                                311,
+                                334
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": []
+                        },
+                        {
+                            "bbox": [
+                                283,
+                                349,
+                                311,
+                                357
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 8,
+                            "lines": []
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        83,
+                        373,
+                        509,
+                        390
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                371,
+                                214,
+                                391
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        371,
+                                        214,
+                                        391
+                                    ],
+                                    "type": "text",
+                                    "content": "第6章□结论与展望",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        83,
+                        407,
+                        509,
+                        533
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 15,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                83,
+                                407,
+                                96,
+                                417
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        407,
+                                        97,
+                                        420
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                407,
+                                                97,
+                                                420
+                                            ],
+                                            "type": "text",
+                                            "content": "45",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                433,
+                                509,
+                                449
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 12,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        431,
+                                        509,
+                                        453
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                431,
+                                                161,
+                                                453
+                                            ],
+                                            "type": "text",
+                                            "content": "参考文献……",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                495,
+                                                439,
+                                                509,
+                                                449
+                                            ],
+                                            "type": "text",
+                                            "content": "48",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                475,
+                                509,
+                                491
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 13,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        472,
+                                        508,
+                                        494
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                81,
+                                                472,
+                                                127,
+                                                494
+                                            ],
+                                            "type": "text",
+                                            "content": "致谢…",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                498,
+                                                482,
+                                                508,
+                                                490
+                                            ],
+                                            "type": "text",
+                                            "content": "51",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                517,
+                                509,
+                                533
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 14,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        513,
+                                        510,
+                                        535
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                513,
+                                                126,
+                                                535
+                                            ],
+                                            "type": "text",
+                                            "content": "附录…",
+                                            "score": 1.0
+                                        },
+                                        {
+                                            "bbox": [
+                                                496,
+                                                522,
+                                                510,
+                                                532
+                                            ],
+                                            "type": "text",
+                                            "content": "52",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        202,
+                        551,
+                        390,
+                        565
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                204,
+                                551,
+                                391,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        204,
+                                        551,
+                                        391,
+                                        565
+                                    ],
+                                    "type": "text",
+                                    "content": "(结论、参考文献、致谢及附录黑体4号)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        291,
+                        781,
+                        302,
+                        790
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 17,
+                    "lines": [
+                        {
+                            "bbox": [
+                                290,
+                                781,
+                                304,
+                                794
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        290,
+                                        781,
+                                        304,
+                                        794
+                                    ],
+                                    "type": "text",
+                                    "content": "IV",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        215,
+                        143,
+                        380,
+                        163
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                215,
+                                142,
+                                382,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        142,
+                                        382,
+                                        166
+                                    ],
+                                    "type": "text",
+                                    "content": "第 1 章□绪论（黑体小 2）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        83,
+                        190,
+                        218,
+                        206
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                188,
+                                220,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        188,
+                                        220,
+                                        208
+                                    ],
+                                    "type": "text",
+                                    "content": "1.1□概述（黑体 4 号）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        231,
+                        510,
+                        339
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                232,
+                                511,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        232,
+                                        511,
+                                        247
+                                    ],
+                                    "type": "text",
+                                    "content": "□□IP（Intellectual Property）就是常说的知识产权，[1]IPCore（知识产权核）则是",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                278,
+                                511,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        278,
+                                        511,
+                                        293
+                                    ],
+                                    "type": "text",
+                                    "content": "指用于产品应用的专用集成电路（ASIC）或者可编程逻辑器件（PGA）的逻辑块或",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                323,
+                                145,
+                                340
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        323,
+                                        145,
+                                        340
+                                    ],
+                                    "type": "text",
+                                    "content": "数据块。[2]",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        89,
+                        358,
+                        139,
+                        371
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                357,
+                                140,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        357,
+                                        140,
+                                        373
+                                    ],
+                                    "type": "text",
+                                    "content": "（宋体小 4）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        285,
+                        386,
+                        308,
+                        438
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        82,
+                        455,
+                        302,
+                        472
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                455,
+                                303,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        455,
+                                        303,
+                                        473
+                                    ],
+                                    "type": "text",
+                                    "content": "3.1□无级缩放算法原理（黑体4号）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        497,
+                        511,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                497,
+                                511,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        497,
+                                        511,
+                                        513
+                                    ],
+                                    "type": "text",
+                                    "content": "□□通过 DDR IPCore 对 DDR 和 DDR2 SDRAM 进行初始化是有分别的，由于在",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                544,
+                                511,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        544,
+                                        511,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "本次项目设计过程中实际采用的是 DDR SDRAM，因此本文仅仅对前者的初始化",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                83,
+                                591,
+                                163,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        591,
+                                        163,
+                                        607
+                                    ],
+                                    "type": "text",
+                                    "content": "时序进行讨论。",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        289,
+                        624,
+                        351,
+                        637
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                289,
+                                623,
+                                352,
+                                638
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        289,
+                                        623,
+                                        352,
+                                        638
+                                    ],
+                                    "type": "text",
+                                    "content": "（宋体小4号）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        285,
+                        697,
+                        308,
+                        773
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": []
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        82,
+                        84,
+                        229,
+                        98
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                84,
+                                229,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        84,
+                                        229,
+                                        100
+                                    ],
+                                    "type": "text",
+                                    "content": "附件六：论文章节标题示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        293,
+                        781,
+                        299,
+                        790
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                294,
+                                782,
+                                301,
+                                793
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        294,
+                                        782,
+                                        301,
+                                        793
+                                    ],
+                                    "type": "text",
+                                    "content": "1",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        285,
+                        81,
+                        309,
+                        181
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                285,
+                                81,
+                                309,
+                                181
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        285,
+                                        81,
+                                        309,
+                                        181
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                285,
+                                                81,
+                                                309,
+                                                181
+                                            ],
+                                            "type": "image",
+                                            "image_path": "4f9686b7e7ff8a50a374c630b9bca7c19e770b11c6a3073aa26ee4fcfa7d39d5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        82,
+                        243,
+                        402,
+                        259
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                243,
+                                402,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        243,
+                                        402,
+                                        258
+                                    ],
+                                    "type": "text",
+                                    "content": "附件七：公式、图文示例（用阿拉伯数字分章依序连续编号）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        110,
+                        337,
+                        175,
+                        350
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                111,
+                                337,
+                                176,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        337,
+                                        176,
+                                        352
+                                    ],
+                                    "type": "text",
+                                    "content": "（1）公式示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        112,
+                        358,
+                        501,
+                        395
+                    ],
+                    "type": "interline_equation",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                112,
+                                358,
+                                501,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        358,
+                                        501,
+                                        395
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "\\begin{array}{l} f (x, y) = \\left\\lfloor f (1, 0) - f (0, 0) \\right\\rfloor x + \\left\\lfloor f (0, 1) - f (0, 0) \\right\\rfloor y \\\\ + \\left[ f (1, 1) + f (0, 0) - f (0, 1) - f (1, 0) \\right] x y + f (0, 0) \\tag {1.1} \\\\ \\end{array}",
+                                    "image_path": "30ca8a1b61810aad9a45ffc4a395ccf00f818aabee556467d1f99f7fc1b5fe87.jpg"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        113,
+                        446,
+                        484,
+                        463
+                    ],
+                    "type": "interline_equation",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                113,
+                                446,
+                                484,
+                                463
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        446,
+                                        484,
+                                        463
+                                    ],
+                                    "type": "interline_equation",
+                                    "content": "f = (1 - \\Delta Y) \\times [ a 0 0 \\times (1 - \\Delta X) + a 0 1 \\times \\Delta X ] + \\Delta Y \\times \\left\\lfloor a 1 0 \\times (1 - \\Delta X) + a 1 1 \\times \\Delta X \\right\\rfloor",
+                                    "image_path": "2f78953b82cfbb57f5408f08c9b9d3337c0fa5185a75c6475a4492a153b78b72.jpg"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        478,
+                        529,
+                        502,
+                        542
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                477,
+                                527,
+                                505,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        477,
+                                        527,
+                                        505,
+                                        546
+                                    ],
+                                    "type": "text",
+                                    "content": "（1.2）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        110,
+                        597,
+                        166,
+                        610
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                111,
+                                595,
+                                166,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        595,
+                                        166,
+                                        612
+                                    ],
+                                    "type": "text",
+                                    "content": "（2）表示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        104,
+                        642,
+                        164,
+                        655
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                642,
+                                165,
+                                656
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        642,
+                                        165,
+                                        656
+                                    ],
+                                    "type": "text",
+                                    "content": "普通表示例：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        205,
+                        718,
+                        413,
+                        733
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                205,
+                                718,
+                                413,
+                                735
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        718,
+                                        413,
+                                        735
+                                    ],
+                                    "type": "text",
+                                    "content": "表 1.1□Altera 可提供的基本宏功能单元",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        781,
+                        299,
+                        790
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                781,
+                                301,
+                                793
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        781,
+                                        301,
+                                        793
+                                    ],
+                                    "type": "text",
+                                    "content": "2",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        102,
+                        113,
+                        492,
+                        296
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                102,
+                                113,
+                                492,
+                                296
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        102,
+                                        113,
+                                        492,
+                                        296
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                102,
+                                                113,
+                                                492,
+                                                296
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>类型</td><td>描述</td></tr><tr><td>算术组件</td><td>包括累加器、加法器、乘法器和LPM算术函数</td></tr><tr><td>门</td><td>包括多路复用器和LPM门函数</td></tr><tr><td>I/O组件</td><td>包括时钟数据恢复(CDR)、锁相环(PLL)、双数据速率(DDR)、千兆位收发器块(GXB)、LVDS收发器和发送器、PLL重新配置和远程更新宏功能模块</td></tr><tr><td>存储器</td><td>包括FIFO Partitioner、RAM和ROM宏功能模块</td></tr><tr><td>存储组件</td><td>存储器、移位寄存器宏模块和LPM存储器函数</td></tr></table>",
+                                            "image_path": "39bd7e3b90bf2cedbab7bea35aa84747687c8ea904f539a7ca6c455d866a6d5e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        103,
+                        339,
+                        163,
+                        353
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                339,
+                                164,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        339,
+                                        164,
+                                        353
+                                    ],
+                                    "type": "text",
+                                    "content": "统计表示例：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        92,
+                        439,
+                        490,
+                        631
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                163,
+                                370,
+                                453,
+                                386
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        369,
+                                        453,
+                                        386
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                164,
+                                                369,
+                                                453,
+                                                386
+                                            ],
+                                            "type": "text",
+                                            "content": "表 3.1□某地 1980 年不同年龄男性调查者 HBsAg 阳性率",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                439,
+                                490,
+                                631
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        439,
+                                        490,
+                                        631
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                92,
+                                                439,
+                                                490,
+                                                631
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>年龄组（岁）</td><td>调查数</td><td>阳性数</td><td>阳性率</td></tr><tr><td>0-</td><td>726</td><td>31</td><td>4.27%</td></tr><tr><td>10-</td><td>1392</td><td>115</td><td>8.26%</td></tr><tr><td>20-</td><td>735</td><td>59</td><td>8.03%</td></tr><tr><td>30-</td><td>574</td><td>57</td><td>9.93%</td></tr><tr><td>40-</td><td>463</td><td>27</td><td>5.83%</td></tr><tr><td>50-</td><td>232</td><td>10</td><td>4.31%</td></tr><tr><td>60-</td><td>112</td><td>4</td><td>3.57%</td></tr><tr><td>合计</td><td>4234</td><td>303</td><td>7.16%</td></tr></table>",
+                                            "image_path": "6a04049f906d930dda1254da82922766f985f8edb9712e3b4520b5b380a0e002.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        81,
+                        661,
+                        398,
+                        677
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                661,
+                                398,
+                                677
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        661,
+                                        398,
+                                        677
+                                    ],
+                                    "type": "text",
+                                    "content": "附件7：公式、图文示例（用阿拉伯数字分章依序连续编号）",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        110,
+                        694,
+                        166,
+                        708
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                693,
+                                166,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        693,
+                                        166,
+                                        709
+                                    ],
+                                    "type": "text",
+                                    "content": "（3）图示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        154,
+                        714,
+                        429,
+                        837
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                154,
+                                714,
+                                429,
+                                837
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        154,
+                                        714,
+                                        429,
+                                        837
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                154,
+                                                714,
+                                                429,
+                                                837
+                                            ],
+                                            "type": "image",
+                                            "image_path": "5e03fba8610cf091894ee71a889062e75a7e8021f3220446e9ebf36b74a7d5ef.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 10
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        174,
+                        205,
+                        403,
+                        340
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                215,
+                                174,
+                                379,
+                                190
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        175,
+                                        377,
+                                        190
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                175,
+                                                377,
+                                                190
+                                            ],
+                                            "type": "text",
+                                            "content": "图1.2□数据通道模块内部结构",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_caption"
+                        },
+                        {
+                            "bbox": [
+                                174,
+                                205,
+                                403,
+                                340
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        174,
+                                        205,
+                                        403,
+                                        340
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                174,
+                                                205,
+                                                403,
+                                                340
+                                            ],
+                                            "type": "image",
+                                            "image_path": "dfa877dd8409fdc2cd49f8bb4a03e6702fac72f2bb0da1d22c34120522067af9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                202,
+                                415,
+                                365,
+                                430
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        414,
+                                        365,
+                                        431
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                202,
+                                                414,
+                                                365,
+                                                431
+                                            ],
+                                            "type": "text",
+                                            "content": "图 2.2□进入 Symbol 操作界面",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_caption"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        82,
+                        454,
+                        207,
+                        469
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                454,
+                                205,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        454,
+                                        205,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "附件八：参考文献示例",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        234,
+                        514,
+                        361,
+                        535
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                234,
+                                511,
+                                363,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        234,
+                                        511,
+                                        363,
+                                        539
+                                    ],
+                                    "type": "text",
+                                    "content": "参考文献 (黑体小 2)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        82,
+                        560,
+                        515,
+                        749
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 8,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                82,
+                                560,
+                                515,
+                                622
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        560,
+                                        516,
+                                        576
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                560,
+                                                516,
+                                                576
+                                            ],
+                                            "type": "text",
+                                            "content": "[1] 戴军，袁惠新.膜技 术 在 含油废水处理 中 的 应 用[J].膜科学 与 技 术 ，",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        608,
+                                        217,
+                                        623
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                608,
+                                                217,
+                                                623
+                                            ],
+                                            "type": "text",
+                                            "content": "2002，22（2）：59-64.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                647,
+                                510,
+                                709
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        647,
+                                        510,
+                                        663
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                647,
+                                                510,
+                                                663
+                                            ],
+                                            "type": "text",
+                                            "content": "[2] 毛侠，孙云.和谐图案的自动生成研究[A].第一届中国情感计算及智能交互",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        693,
+                                        456,
+                                        710
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                693,
+                                                456,
+                                                710
+                                            ],
+                                            "type": "text",
+                                            "content": "学术会议论文集[C].北京：中国科学院自动化研究所，2003：277-279.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                734,
+                                485,
+                                749
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 7,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        734,
+                                        484,
+                                        751
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                105,
+                                                734,
+                                                484,
+                                                751
+                                            ],
+                                            "type": "text",
+                                            "content": "[3] 王湛.膜分离技术基础[M].北京:化学工业出版社，2000：14-21，30.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        781,
+                        301,
+                        790
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                782,
+                                301,
+                                791
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        782,
+                                        301,
+                                        791
+                                    ],
+                                    "type": "text",
+                                    "content": "4",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 11
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        82,
+                        83,
+                        516,
+                        533
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 6,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                82,
+                                83,
+                                512,
+                                146
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        84,
+                                        511,
+                                        100
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                84,
+                                                511,
+                                                100
+                                            ],
+                                            "type": "text",
+                                            "content": "[4] 张志祥. 间断动力系统的随机扰动及其在守恒律方程中的应用[D].北京:北",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        131,
+                                        204,
+                                        146
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                131,
+                                                204,
+                                                146
+                                            ],
+                                            "type": "text",
+                                            "content": "京大学数学学院,1998.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                169,
+                                512,
+                                233
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        169,
+                                        512,
+                                        188
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                169,
+                                                512,
+                                                188
+                                            ],
+                                            "type": "text",
+                                            "content": "[5] World Health Organization. Factors regulating the immune",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        82,
+                                        216,
+                                        455,
+                                        233
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                216,
+                                                455,
+                                                233
+                                            ],
+                                            "type": "text",
+                                            "content": "response: report of WHO Scientific Group[R]. Geneva: WHO, 1970.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                255,
+                                512,
+                                320
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        257,
+                                        510,
+                                        272
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                257,
+                                                510,
+                                                272
+                                            ],
+                                            "type": "text",
+                                            "content": "[6] 河北绿洲生态环境科技有限公司.一种荒漠化地区生态植被综合培育种植",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        301,
+                                        329,
+                                        321
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                301,
+                                                329,
+                                                321
+                                            ],
+                                            "type": "text",
+                                            "content": "方法[P]:中国,01129210.5[P/OL]. 2001-10-24.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                342,
+                                516,
+                                404
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        343,
+                                        516,
+                                        359
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                343,
+                                                516,
+                                                359
+                                            ],
+                                            "type": "text",
+                                            "content": "[7] GB/T16159-1996.汉语拼音证词法基本规则[S].北京：中国标准出版社 ，",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        82,
+                                        387,
+                                        119,
+                                        407
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                387,
+                                                119,
+                                                407
+                                            ],
+                                            "type": "text",
+                                            "content": "1996.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                105,
+                                428,
+                                484,
+                                445
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        428,
+                                        485,
+                                        446
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                105,
+                                                428,
+                                                485,
+                                                446
+                                            ],
+                                            "type": "text",
+                                            "content": "[8] 毛侠.情感工学破解“舒服之谜”[N].光明日报，2004-04-17（B1）.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                468,
+                                512,
+                                533
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        107,
+                                        468,
+                                        511,
+                                        484
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                107,
+                                                468,
+                                                511,
+                                                484
+                                            ],
+                                            "type": "text",
+                                            "content": "[9] 陈剑.上博简《民之父母》“而得既塞於四海矣”句解释[EB/OL］.简帛研究",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        515,
+                                        511,
+                                        532
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                83,
+                                                515,
+                                                511,
+                                                532
+                                            ],
+                                            "type": "text",
+                                            "content": "网站，http://www.bamboosilk.org/Wssf/2003/chenjian03.htm，2003-01-18.",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        270,
+                        548,
+                        324,
+                        562
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                269,
+                                547,
+                                324,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        269,
+                                        547,
+                                        324,
+                                        565
+                                    ],
+                                    "type": "text",
+                                    "content": "( 宋体小 4)",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        286,
+                        577,
+                        307,
+                        676
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": []
+                },
+                {
+                    "bbox": [
+                        93,
+                        684,
+                        506,
+                        699
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                684,
+                                506,
+                                699
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        684,
+                                        506,
+                                        699
+                                    ],
+                                    "type": "text",
+                                    "content": "参考文献格式严格按照《武汉大学本科生毕业论文（设计）工作管理办法（修订）》标注",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        293,
+                        781,
+                        301,
+                        790
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                781,
+                                301,
+                                792
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        781,
+                                        301,
+                                        792
+                                    ],
+                                    "type": "text",
+                                    "content": "5",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 12
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "2.7.5"
+}

@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "SpatialMAS"
+version = "1.0.0"
+description = "SpatialMAS MCP server for spatial and tabular analytics"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+authors = [
+  { name = "SpatialMAS Team" }
+]
+keywords = ["mcp", "snowflake", "spatial", "agent", "research"]
+
+dependencies = [
+  "mcp>=1.0.0",
+  "langchain>=0.3.0",
+  "langchain-openai>=0.2.0",
+  "langgraph>=0.2.0",
+  "snowflake-connector-python>=3.12.0",
+  "pandas>=2.2.0",
+  "numpy>=1.26.0",
+  "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0.0",
+  "pytest-asyncio>=0.24.0",
+  "ruff>=0.8.0",
+  "black>=24.0.0",
+  "mypy>=1.11.0",
+]
+
+[project.scripts]
+spatialmas-mcp = "mcp_server:main"
+spatialmas-cli = "main:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["spatialmas*"]
+exclude = ["tests*"]
+
+[tool.black]
+line-length = 100
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+addopts = "-ra -q --strict-markers"
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "pytest-asyncio>=1.3.0",
+]
