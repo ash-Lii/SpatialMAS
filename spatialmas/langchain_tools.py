@@ -4,6 +4,7 @@ import json
 
 from langchain.tools import tool
 
+from spatialmas.models import QueryExecutionError
 from spatialmas.services.analysis_service import AnalysisService
 from spatialmas.services.query_service import QueryService
 from spatialmas.services.schema_service import SchemaSelectionService
@@ -34,8 +35,20 @@ def generate_sql_query(question: str, schema_string: str) -> str:
 def execute_db_query(sql_query: str, limit: int = 1000) -> str:
     """Execute read-only SQL against Snowflake and return structured JSON result."""
     service = QueryService()
-    result = service.execute_query(sql_query=sql_query, limit=limit)
-    return _json(result.to_dict())
+    try:
+        result = service.execute_query(sql_query=sql_query, limit=limit)
+        return _json(result.to_dict())
+    except Exception as exc:
+        error = QueryExecutionError(
+            code="query_execution_failed",
+            message=str(exc),
+            details={
+                "sql_query": sql_query,
+                "limit": limit,
+                "exception_type": exc.__class__.__name__,
+            },
+        )
+        return _json(error.to_dict())
 
 
 @tool

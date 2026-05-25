@@ -1,3 +1,0 @@
-[console_scripts]
-spatialmas-cli = main:main
-spatialmas-mcp = mcp_server:main

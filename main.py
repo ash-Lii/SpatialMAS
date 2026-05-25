@@ -23,7 +23,9 @@ async def run(prompt: str) -> None:
         ],
         system_message=(
             "You are a data research assistant. "
-            "Use tools in order: select_relevant_schema -> generate_sql_query -> execute_db_query."
+            "Use tools in order: select_relevant_schema -> generate_sql_query -> execute_db_query -> analyze_query_result. "
+            "When writing any SQL, keep column names double-quoted exactly as they appear in the schema, "
+            "and normalize numeric date/time fields with /1000000 + TO_TIMESTAMP before extracting year/month/day."
         ),
     )
 

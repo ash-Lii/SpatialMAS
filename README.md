@@ -1,15 +1,15 @@
 # SpatialMAS
 
-SpatialMAS is a standalone MCP server for spatial and tabular analytics workflows.
+SpatialMAS is a standalone CLI for spatial and tabular analytics workflows.
 
 It focuses on:
 
-- secure configuration (env-based)
+- env-based configuration
 - read-only SQL execution
-- structured JSON tool outputs
+- structured outputs
 - modular architecture for long-term maintenance
 
-## MCP tools
+## Core tool pipeline
 
 1. `select_relevant_schema`
 2. `generate_sql_query`
@@ -20,8 +20,11 @@ It focuses on:
 
 ```text
 SpatialMAS/                      ← repo root
-├── mcp_server.py                ← MCP server entry
-├── main.py                      ← CLI demo entry
+├── db.py                        ← direct SQL runner
+├── questions.md                 ← batch questions for main.py
+├── test.py                      ← batch runner that streams stdout and writes answers/
+├── answers/                     ← generated per-question answer files with logs
+├── main.py                      ← CLI entry
 ├── pyproject.toml
 ├── .env.example
 ├── spatialmas/                  ← Python package
@@ -62,31 +65,39 @@ Required:
 - `SNOWFLAKE_USER`
 - `SNOWFLAKE_PASSWORD`
 - `SNOWFLAKE_ACCOUNT`
-- `SNOWFLAKE_DATABASE`
 
 Optional:
 
-- `SNOWFLAKE_WAREHOUSE`
-- `SNOWFLAKE_ROLE`
+- `SNOWFLAKE_DATABASE` (default `SAN_FRANCISCO_PLUS`)
 - `QUERY_TIMEOUT_SECONDS` (default `30`)
 - `DEFAULT_RESULT_LIMIT` (default `1000`)
 - `MAX_RESULT_LIMIT` (default `5000`)
 
 ## Run
 
-### MCP server
-
-```bash
-python mcp_server.py
-```
-
-### Local CLI demo
+Natural language / agent flow:
 
 ```bash
 python main.py "Show top 10 records from the main fact table"
 ```
 
-### Rebuild the LLM schema from your own database
+Direct SQL:
+
+```bash
+python db.py "SELECT * FROM SAN_FRANCISCO_BIKESHARE.BIKESHARE_TRIPS LIMIT 10"
+```
+
+Both commands use the same `.env`-based Snowflake settings, and `db.py` keeps the existing read-only guard.
+
+Batch evaluation:
+
+```bash
+python test.py
+```
+
+`test.py` reads questions from `questions.md`, streams `main.py` stdout to the console while it runs, and overwrites `answers/` with one Markdown file per question, including the full run logs.
+
+## Schema utilities
 
 ```bash
 python scripts/generate_schema.py
@@ -95,6 +106,7 @@ python scripts/validate_schema.py
 
 ## Notes
 
-- This repository ships with a single LLM-facing schema file.
+- This repository is CLI-only; no separate server registration is required.
 - Run `scripts/generate_schema.py` to regenerate the schema file and rules for your own environment.
-- The server rejects non-read-only SQL.
+- `test.py` is a batch harness; it does not replace `db.py` or `main.py`.
+- The command entry points enforce read-only SQL.

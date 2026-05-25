@@ -20,6 +20,7 @@
       "Prefer explicit JOIN predicates and stable aliases.",
       "Keep SQL read-only.",
       "Add LIMIT for large result sets when user did not specify one.",
+      "Normalize numeric date/time fields with /1000000 + TO_TIMESTAMP before extracting year/month/day.",
       "Use Snowflake-compatible syntax."
     ],
     "quoting_instruction": "All column names in this database are case-sensitive and defined with double-quoted lowercase identifiers.\nYou MUST wrap every column reference in double quotes, for example: SELECT \"column_name\" FROM ...\nTable/schema names should NOT be quoted (they are uppercase and case-insensitive).",

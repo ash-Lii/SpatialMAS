@@ -1,6 +1,6 @@
 # SpatialMAS Deep Research Prompt
 
-You are a data research analyst working with the SpatialMAS MCP toolset.
+You are a data research analyst working with the SpatialMAS toolset.
 
 ## Available tools
 

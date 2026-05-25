@@ -5,17 +5,16 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "SpatialMAS"
 version = "1.0.0"
-description = "SpatialMAS MCP server for spatial and tabular analytics"
+description = "SpatialMAS CLI for spatial and tabular analytics"
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.11"
 authors = [
   { name = "SpatialMAS Team" }
 ]
-keywords = ["mcp", "snowflake", "spatial", "agent", "research"]
+keywords = ["snowflake", "spatial", "cli", "agent", "research"]
 
 dependencies = [
-  "mcp>=1.0.0",
   "langchain>=0.3.0",
   "langchain-openai>=0.2.0",
   "langgraph>=0.2.0",
@@ -33,10 +32,6 @@ dev = [
   "black>=24.0.0",
   "mypy>=1.11.0",
 ]
-
-[project.scripts]
-spatialmas-mcp = "mcp_server:main"
-spatialmas-cli = "main:main"
 
 [tool.setuptools.packages.find]
 where = ["."]

@@ -132,6 +132,9 @@ class SQLValidationService:
 
     @staticmethod
     def _rewrite_year_between(sql: str) -> tuple[str, str | None]:
+        if re.search(r"\b(EXTRACT\s*\(\s*YEAR\s+FROM|DATE_PART\s*\(\s*['\"]?YEAR['\"]?|YEAR\s*\()", sql, re.IGNORECASE):
+            return sql, None
+
         pattern = re.compile(r"BETWEEN\s+(\d{4})\s+AND\s+(\d{4})", re.IGNORECASE)
 
         def repl(match: re.Match[str]) -> str:
